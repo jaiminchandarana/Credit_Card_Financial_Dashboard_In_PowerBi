@@ -9,3 +9,4 @@ Steps : Defined Project Scope and Objectives, Gathered and Analyzed Requirements
 Insights : Enhanced Financial Monitoring, Advanced Customer Behavior Insights, Improved Risk Assessment.
 
 Skills : Power BI, DAX, PostgreSQL, Data Integration, Financial Analysis, Data Visualization, Dashboard Development, SQL Querying, Advanced Calculations.
+also try [https://logicalc.org/](https://logicalc.org/)
